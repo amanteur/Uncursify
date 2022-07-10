@@ -1,0 +1,6 @@
+*.wav
+*.mp3
+venv
+**/.ipynb_checkpoints/*
+.ipynb_checkpoints/
+.cache
